@@ -12,7 +12,7 @@ Eu sou Lucas Bento! Desenvolvedor apaixonado por resolver problemas através da 
 ## 📊 Minhas Estatísticas
 
 <div>
-    <img src="https://raw.githubusercontent.com/Lucas-Bento-D/Lucas-Bento-D/43b688d7990899de3846a68d300e4914e8fea272/profile-3d-contrib/profile-night-green.svg" /> 
+    <img src="./profile-3d-contrib/profile-night-green.svg" /> 
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas

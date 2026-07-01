@@ -4,10 +4,8 @@ Eu sou Lucas Bento! Desenvolvedor apaixonado por resolver problemas através da 
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e tenho experiência com **ReactJS**, **Node.js** , **TypeScript** e **GraphQL**.
+- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e tenho experiência com **ReactJS**, **Angular**, **Java**, **Node.js** , **TypeScript** e **GraphQL**.
 - 💼 Atualmente, trabalho com Desenvolvimento de E-commerce pela <a href="https://penseavanti.com.br/">Pense Avanti</a>.
-- 🌱 Estou aprendendo cada vez mais sobre **Java**, **Kotlin** e **Angular**.
-- 💡 Me interesso por **Jogos**, **Inteligencia Artificial** e desenvolvimento de **aplicativos mobile**.
 
 ## 📊 Minhas Estatísticas
 
